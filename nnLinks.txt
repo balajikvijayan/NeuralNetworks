@@ -1,0 +1,68 @@
+http://deeplearning.net/
+http://neuralnetworksanddeeplearning.com/
+http://cs.stanford.edu/people/karpathy/convnetjs/demo/trainers.html
+http://www.iro.umontreal.ca/~bengioy/dlbook/
+http://cs231n.github.io/
+http://cs231n.stanford.edu/
+http://cilvr.cs.nyu.edu/diglib/lsml/lecture03-optimi-nonlin.pdf  -- Yann LeCun's slides on non-convex optimization
+http://www.slideshare.net/0xdata/arno-candel-scalabledatascienceanddeeplearningwithh2omeetupacmebay  - also links to arno's other presentations
+https://www.youtube.com/playlist?list=PL87GtQd0bfJzBVqsgavCUDWvTW4QyBr2s - acm playlist of youtube videos on deeplearning
+http://erikbern.com/2014/06/28/recurrent-neural-networks-for-collaborative-filtering/  - recurrent-neural-networks-for-collaborative-filtering/
+http://rnnlm.org/ - mikolov - language modelling with rnn
+http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html - autoencoder vids, convolutional
+https://www.youtube.com/watch?v=VINCQghQRuM - recurrent nn vid
+http://www.iro.umontreal.ca/~lisa/pointeurs/
+http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf - 1st paper on initialization
+http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf - LeNet-5 paper
+http://jmlr.org/proceedings/papers/v32/arora14.pdf - provable bounds on deep learning
+http://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf - Jeffrey Dean, DistBelief paper
+http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf - Hinton AlexNet paper
+https://developer.nvidia.com/deep-learning - NVIDIA resources
+http://deeplearning4j.org/troubleshootingneuralnets.html
+https://news.ycombinator.com/item?id=8719371
+http://cs231n.github.io/
+http://cs231n.github.io/convolutional-networks/
+http://white.stanford.edu/teach/index.php/An_Introduction_to_Convolutional_Neural_Networks
+https://en.wikipedia.org/wiki/Long_short_term_memory
+https://developer.nvidia.com/deep-learning-courses - nvidia courses
+http://arxiv.org/pdf/1206.5533v1.pdf - Bengio paper on training techniques
+http://cs224d.stanford.edu/ - nlp w deep learning
+http://www.dsi.unifi.it/~paolo/ps/tnn-94-gradient.pdf - lstm networks - bengio
+https://github.com/karpathy/neuraltalk
+http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/
+
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/ - lstm tutorial
+http://colah.github.io/posts/2015-08-Backprop/ - derivatives on computational graph
+http://neuralnetworksanddeeplearning.com/ - online book on deep learning
+http://goodfeli.github.io/dlbook/ - Bengio's book on neural nets
+http://neuralnetworksanddeeplearning.com/chap2.html - tutorial on backpropagation
+http://www.jmlr.org/proceedings/papers/v28/pascanu13.pdf - difficulty training rnn
+http://arxiv.org/pdf/1406.1078v3.pdf - gated recurrent unit
+http://arxiv.org/abs/1502.02367 - gated feedback RNN (bengio)
+http://www.teglor.com/b/deep-learning-libraries-language-cm569/ - list of deep learning software pkgs
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/ - blog post w. links to code
+https://gist.github.com/karpathy/d4dee566867f8291f086 - rnn in 100 lines
+http://www.nehalemlabs.net/prototype/blog/2013/10/10/implementing-a-recurrent-neural-network-in-python/ - quickie rnn example
+http://minds.jacobs-university.de/sites/default/files/uploads/papers/ESNTutorialRev.pdf - tutorial on rnn 2013 w ekf
+http://jmlr.org/proceedings/papers/v28/pascanu13.pdf - difficulty of training rnn's (bengio)
+http://deeplearning.net/tutorial/rnnslu.html - fairly simple theano implementation of Elman RNN
+https://web.stanford.edu/group/pdplab/pdphandbook/handbookch8.html - stanford.edu discussion of RNN for speech
+https://www.willamette.edu/~gorr/classes/cs449/rnn1.html - willamette course notes for ann course
+http://jmlr.org/proceedings/papers/v28/pascanu13.pdf - training difficulties with recurrent NN
+http://arxiv.org/pdf/1508.06576v2.pdf - dnn to transfer style to new pictures
+https://github.com/kaishengtai/neuralart - github for above.  
+http://arxiv.org/pdf/1506.00019v4.pdf - Lipton's excellent survey of RNN
+http://arxiv.org/pdf/1506.02078v2.pdf - visualizing and understanding neural networks - Karpathy
+https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf - visualizing and understanding convolutional neural networks
+http://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1402_1/pdf - elman paper on time series
+http://www.felixgers.de/papers/phd.pdf - thesis outlining rnn and lstm types
+http://arxiv.org/pdf/1410.4615.pdf - Sutskever SOTA LSTM - Feb 2015
+http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf - deep learning monograph
+http://ufldl.stanford.edu/tutorial/ - neural net tutorial
+https://www.cs.colorado.edu/~mozer/Teaching/syllabi/DeepLearning2015/ - mike mozer course notes deep learning
+https://clgiles.ist.psu.edu/papers/MLJ-finance.pdf - rnn for financial ts prediction
+http://arxiv.org/pdf/1511.07289v1.pdf - Clevert and Hochreiter paper ELU
+http://arxiv.org/pdf/1312.6026v5.pdf - pascanu paper on deep rnn architectures
+http://deeplearning4j.org/lstm.html#long - good review and good references
+http://www.felixgers.de/papers/phd.pdf - schmidhuber student's RNN thesis
